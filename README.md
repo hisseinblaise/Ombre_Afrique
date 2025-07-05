@@ -144,7 +144,7 @@ PRIMARY KEY (code_plat_Plat,
  
 ## Présentation des tables
 
----
+
 voici les différentes tables que comprend cette base de données:
 
 	|table Employé|
@@ -163,14 +163,20 @@ voici les différentes tables que comprend cette base de données:
  
 	|table Facture|
 
+ 
+
  ![image](https://github.com/user-attachments/assets/c49e2368-01cc-4ce9-af6c-e5adadcb9670)
 
 
- ---
+
 
   ## SQL fontionnel: scripts exécutables 
 
+  
+
   ![image](https://github.com/user-attachments/assets/41a3b02b-9fcb-43e3-8c9f-d207f25fc901)
+
+  
 
   ![image](https://github.com/user-attachments/assets/45108243-14fa-456d-9abc-a56edde52e4d)
 
